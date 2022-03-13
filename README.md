@@ -1,13 +1,13 @@
 # Soulforged
 
-Soulforged is a Minecraft mod that aims to improve on and adapt a multitude of Minecrafts mechanics, including a total revamp of the armor, damage and weapon system, a lot of new materials, three types of magic, and various structures and bosses.
-
+Soulforged is a Minecraft mod that aims to improve on and adapt a multitude of Minecraft's mechanics, including a total revamp of the armor, damage and weapon system, a lot of new materials, three types of magic, and various structures and bosses.
 
 ## Condensed Version
-Soulforged Concept But Condensed So People Don’t Have To Read 90 Fucking Pages
+
+Soulforged Concept But Condensed So People Don't Have To Read 90 Fucking Pages
 
 
-I’m gonna start adding some thoughts to various features and suggestions, marked with italics.
+I'm gonna start adding some thoughts to various features and suggestions, marked with italics.
 
 
 ### Modular Equipment
@@ -15,7 +15,7 @@ Tools, weapons and armor made from different materials. They can be modified and
 
 
 ### Damage System
-Several types of armor and damage, as armor has coverage, toughness and weight, while there’s piercing, blunt, elemental, and magical damage.
+Several types of armor and damage, as armor has coverage, toughness and weight, while there's piercing, blunt, elemental, and magical damage.
 
 
 ### Smithing System
